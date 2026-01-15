@@ -1,0 +1,5 @@
+{
+  "name": "Cientista de Dados Meta Ads",
+  "description": "Um dashboard inteligente que analisa exportações CSV do Meta Ads. Calcula métricas chave (CTR, CPC), identifica as melhores campanhas, visualiza gastos e fornece insights estratégicos via IA com Gemini.",
+  "requestFramePermissions": []
+}
